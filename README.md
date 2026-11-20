@@ -2,8 +2,6 @@
 
 Projet sommatif UA2 – Analyse exploratoire des données (AED) réalisée en R.
 
-**Équipe :** Safaa Naamane, Fatima Zohra Aboudeine
-
 ## Objectif
 
 Explorer un jeu de données de réservations de deux hôtels (City Hotel et Resort Hotel) afin de repérer ce qui mérite d'être approfondi : délai de réservation, annulation et tarif journalier moyen (ADR).
@@ -54,3 +52,6 @@ Ces résultats sont descriptifs et ne prouvent pas de causalité.
 ## Limites
 
 Les mois mélangent les deux hôtels et des années différentes ; des valeurs atypiques et des lignes identiques ont été conservées et signalées plutôt que supprimées. Voir le rapport pour le détail.
+
+**Équipe :** Fatima Zohra Aboudeine - Safaa Naamane
+
